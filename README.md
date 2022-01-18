@@ -31,4 +31,5 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch
 5. Open "Anaconda Navigator", set "Applications on quantum", and install "jupyterlab"
 ![](./fig1.png) 
 
-6. 
+6. Execute "ICTC-QRL.ipynb"
+![](./fig2.png)

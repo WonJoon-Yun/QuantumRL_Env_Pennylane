@@ -20,12 +20,15 @@ conda activate quantum
 ```
   
   
-4. Install pennylane & torch
+4. Install pennylane & gym & torch 
   
 ```bash 
 pip install pennylane 
+pip install gym
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
   
 5. Open "Anaconda Navigator", set "Applications on quantum", and install "jupyterlab"
 ![](./fig1.png) 
+
+6. 

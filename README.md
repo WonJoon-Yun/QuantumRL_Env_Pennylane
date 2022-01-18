@@ -20,10 +20,11 @@ conda activate quantum
 ```
   
   
-4. Install pennylane
+4. Install pennylane & torch
   
 ```bash 
 pip install pennylane 
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
   
   

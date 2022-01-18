@@ -7,13 +7,13 @@ This repo. is for quantum RL developer. We use pennylane library as dev. env.
 2. Open "Anaconda Prompt (Anaconda3)" and create virtual environment. 
 
 
-<code> conda create -n quantum python=3.9
+<code> conda create -n quantum python=3.9 <\code>
   
   
 3. Activate "quantum" environment
   
   
-<code> conda activate quantum
+<code> conda activate quantum <\code>
   
   
 4. Install pennylane
